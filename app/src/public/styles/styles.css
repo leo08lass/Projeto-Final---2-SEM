@@ -7,6 +7,10 @@
 
 body{
     font-family: fantasy;
+    body {
+    background-color: #474350 !important;
+    color: #fff;
+  }
 }
 
 .logo{
@@ -169,3 +173,14 @@ footer {
   footer .container > div { text-align: center; }
 }
 
+.btn{
+<<<<<<< HEAD:app/src/public/styles/inicial.css
+    background-color: #FFC857;
+    border-color: #FFC857;
+    color: #000;
+}
+
+=======
+  background-color: gold;
+}
+>>>>>>> 4aa12a92dd314d6ba56ffc622bf37f4a87cf6c66:app/src/public/styles/styles.css
